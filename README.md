@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 14th Feb, 2021 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
+<h1 align="center"><a href="https://main.d3szjn29topbje.amplifyapp.com/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 14th Feb, 2021 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
 
 
 
@@ -8,23 +8,23 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  <a href="https://main.d3szjn29topbje.amplifyapp.com/"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **14th February at [Mishtten Resort](https://g.page/Mishttenresort),  Jhalawar, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Jatin's wedding to be held on **26th August at [Maheshwari Garden](https://weddingz.in/jodhpur/maheshwari-bhavan-ratanada/),  Jodhpur, Rajasthan from 3:00 PM** onwards.
 
-- [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card
+- [Download](https://main.d3szjn29topbje.amplifyapp.com/assets/SI.pdf) the Invitation card
 
 - Find [venue](https://g.page/Mishttenresort) on Google map
 
-- Visit the [website](https://saharshisha.netlify.app) for more details
+- Visit the [website](https://main.d3szjn29topbje.amplifyapp.com) for more details
 
 
 ```js
 
-const newCouple = 'Saharsh & Isha';
+const newCouple = 'Jatin & Ginni';
 
-// Feb 14, 2021
+// Aug 26, 2023
 const weddingDate = new Date(2021, 02, 14);
 
 // Wedding venue: https://g.page/Mishttenresort
