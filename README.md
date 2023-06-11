@@ -11,7 +11,7 @@
   <a href="https://main.d3szjn29topbje.amplifyapp.com/"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Jatin's wedding to be held on **26th August at [Maheshwari Garden](https://weddingz.in/jodhpur/maheshwari-bhavan-ratanada/),  Jodhpur, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Jatin's wedding to be held on **26th August at [Chandra Inn](https://weddingz.in/jodhpur/maheshwari-bhavan-ratanada/),  Jodhpur, Rajasthan from 6:00 PM** onwards.
 
 - [Download](https://main.d3szjn29topbje.amplifyapp.com/assets/SI.pdf) the Invitation card
 
