@@ -772,14 +772,21 @@ a {
 		transform: rotate(13deg);
 	}
 	blockquote::after {
-		content: '';
+		content: '”';
+		font-family: serif;
 		display: block;
 		position: absolute;
-		top: 100%;
-		width: 80px;
+		left: 100%;
+		font-size: 75px;
+		line-height: 10px;
+		color: #674ea7;
+		/*width: 80px;
 		height: 5px;
 		background: #e56d39;
-		left: 1em;
+		left: 1em; */
+		animation: dancing 1s linear infinite;
+		display: inline-block;
+		transform: rotate(13deg);
 	}
 
 	@keyframes dancing {
