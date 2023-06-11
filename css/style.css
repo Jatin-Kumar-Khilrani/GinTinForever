@@ -419,7 +419,7 @@ img {
 
 .title h3 {
 	font-weight: 300;
-	text-transform: uppercase;
+	/*text-transform: uppercase; */
 	letter-spacing: 5px;
 	font-size: 24px;
 	color: #674ea7;
@@ -429,7 +429,7 @@ img {
 .title p {
 	color: #564861;
 	margin: 30px 0 20px;
-	text-transform: uppercase;
+	/*text-transform: uppercase; */
 	letter-spacing: 3px;
 	font-size: 16px;
 }
