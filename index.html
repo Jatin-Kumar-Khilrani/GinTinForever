@@ -303,6 +303,8 @@
           width: ctrlq.dataset.width,
           events: {
             'onReady': function(e) {
+              //<!-- document.getElementById("my_audio").pauseAudio(); -->
+              pauseAudio();
               e.target.cueVideoById({
                 videoId: ctrlq.dataset.video,
                 startSeconds: ctrlq.dataset.startseconds,
@@ -336,8 +338,9 @@
   </a>
 </div>
 <br>
-Crafted with lots of love ❤️ by Jatin Kumar Khilrani for Ginni Kalyani
-
+Crafted with lots of love ❤️ <br>
+by Jatin Kumar Khilrani for Ginni Kalyani.
+<br>
 </body>
 
 </html>
