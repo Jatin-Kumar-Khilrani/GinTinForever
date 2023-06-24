@@ -1,5 +1,5 @@
 /**
- * @author Sarthak Jain <sarthak240498@gmail.com>
+ * @author Jatin Kumar Khilrani <jatin.khilrani@yahoo.com>
  */
 (function ($) {
     "use strict";
@@ -22,17 +22,15 @@ var isplay = 0;
 $(document).on('click', function(){
     if (isplay == 0)
     {
+        document.getElementById("my_audio").play();
+        console.log('Shaadi me zaroor aana');
+        isplay=0;
+    }
+    else{
         document.getElementById("my_audio").pause();
         console.log('Shaadi me pakka aana');
         event.stopPropagation();
         isplay = 1;
-
-        
-    }
-    else{
-        document.getElementById("my_audio").play();
-        console.log('Shaadi me zaroor aana');
-        isplay=0;
     }
     
 });
