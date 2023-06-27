@@ -22,14 +22,14 @@ var isplay = 0;
 $(document).on('click', function(){
     if (isplay == 0)
     {
-        document.getElementById("my_audio").pause();
-        console.log('Shaadi me pakka aana');
-        event.stopPropagation();
+        document.getElementById("my_audio").play();
+        console.log('Shaadi me pakka aana play');
         isplay=1;
     }
     else{
-        document.getElementById("my_audio").play();
-        console.log('Shaadi me zaroor aana');
+        document.getElementById("my_audio").pause();
+        event.stopPropagation();
+        console.log('Shaadi me zaroor aana pause');
         isplay = 0;
     }
     
